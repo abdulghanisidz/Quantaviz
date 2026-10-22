@@ -1,0 +1,98 @@
+{
+  "default": {
+    "label": "General",
+    "accent": "#a855f7",
+    "soft": "rgba(168, 85, 247, 0.22)",
+    "glow": "rgba(192, 132, 252, 0.5)",
+    "surface": "rgba(76, 29, 149, 0.18)",
+    "aura": "radial-gradient(circle at 18% 16%, rgba(168, 85, 247, 0.28), transparent 34%), radial-gradient(circle at 84% 12%, rgba(99, 102, 241, 0.18), transparent 30%)"
+  },
+  "medical": {
+    "label": "Medical",
+    "accent": "#ec4899",
+    "soft": "rgba(236, 72, 153, 0.22)",
+    "glow": "rgba(244, 114, 182, 0.5)",
+    "surface": "rgba(157, 23, 77, 0.18)",
+    "aura": "radial-gradient(circle at 16% 14%, rgba(236, 72, 153, 0.3), transparent 34%), radial-gradient(circle at 82% 12%, rgba(251, 113, 133, 0.2), transparent 28%)"
+  },
+  "quantum": {
+    "label": "Quantum Physics",
+    "accent": "#3b82f6",
+    "soft": "rgba(59, 130, 246, 0.22)",
+    "glow": "rgba(96, 165, 250, 0.5)",
+    "surface": "rgba(30, 64, 175, 0.18)",
+    "aura": "radial-gradient(circle at 18% 16%, rgba(59, 130, 246, 0.28), transparent 34%), radial-gradient(circle at 86% 10%, rgba(34, 211, 238, 0.18), transparent 30%)"
+  },
+  "mechanical": {
+    "label": "Mechanical",
+    "accent": "#94a3b8",
+    "soft": "rgba(148, 163, 184, 0.2)",
+    "glow": "rgba(203, 213, 225, 0.45)",
+    "surface": "rgba(71, 85, 105, 0.2)",
+    "aura": "radial-gradient(circle at 16% 14%, rgba(148, 163, 184, 0.24), transparent 34%), radial-gradient(circle at 82% 12%, rgba(226, 232, 240, 0.12), transparent 28%)"
+  },
+  "civil": {
+    "label": "Civil",
+    "accent": "#b45309",
+    "soft": "rgba(180, 83, 9, 0.22)",
+    "glow": "rgba(245, 158, 11, 0.45)",
+    "surface": "rgba(146, 64, 14, 0.18)",
+    "aura": "radial-gradient(circle at 18% 16%, rgba(180, 83, 9, 0.28), transparent 34%), radial-gradient(circle at 86% 10%, rgba(251, 191, 36, 0.16), transparent 30%)"
+  },
+  "tech": {
+    "label": "Tech",
+    "accent": "#22c55e",
+    "soft": "rgba(34, 197, 94, 0.2)",
+    "glow": "rgba(74, 222, 128, 0.5)",
+    "surface": "rgba(21, 128, 61, 0.18)",
+    "aura": "radial-gradient(circle at 16% 14%, rgba(34, 197, 94, 0.28), transparent 34%), radial-gradient(circle at 84% 10%, rgba(16, 185, 129, 0.16), transparent 30%)"
+  },
+  "biology": {
+    "label": "Biology",
+    "accent": "#37573b",
+    "soft": "rgba(55, 87, 59, 0.22)",
+    "glow": "rgba(111, 167, 120, 0.42)",
+    "surface": "rgba(34, 68, 39, 0.2)",
+    "aura": "radial-gradient(circle at 16% 16%, rgba(55, 87, 59, 0.32), transparent 34%), radial-gradient(circle at 84% 12%, rgba(132, 204, 22, 0.14), transparent 30%)"
+  },
+  "chemistry": {
+    "label": "Chemistry",
+    "accent": "#4a8af0",
+    "soft": "rgba(74, 138, 240, 0.22)",
+    "glow": "rgba(125, 177, 255, 0.45)",
+    "surface": "rgba(37, 99, 235, 0.18)",
+    "aura": "radial-gradient(circle at 18% 16%, rgba(74, 138, 240, 0.3), transparent 34%), radial-gradient(circle at 84% 12%, rgba(56, 189, 248, 0.18), transparent 30%)"
+  },
+  "data_structures": {
+    "label": "Data Structures",
+    "accent": "#96ebd4",
+    "soft": "rgba(150, 235, 212, 0.24)",
+    "glow": "rgba(167, 243, 208, 0.5)",
+    "surface": "rgba(13, 148, 136, 0.16)",
+    "aura": "radial-gradient(circle at 16% 14%, rgba(150, 235, 212, 0.26), transparent 34%), radial-gradient(circle at 86% 12%, rgba(45, 212, 191, 0.16), transparent 30%)"
+  },
+  "electrical": {
+    "label": "Electrical Engineering",
+    "accent": "#1a0b2e",
+    "soft": "rgba(26, 11, 46, 0.28)",
+    "glow": "rgba(88, 28, 135, 0.42)",
+    "surface": "rgba(58, 12, 163, 0.16)",
+    "aura": "radial-gradient(circle at 16% 14%, rgba(26, 11, 46, 0.42), transparent 34%), radial-gradient(circle at 86% 12%, rgba(124, 58, 237, 0.18), transparent 30%)"
+  },
+  "mathematics": {
+    "label": "Mathematics",
+    "accent": "#dc85ed",
+    "soft": "rgba(220, 133, 237, 0.24)",
+    "glow": "rgba(233, 176, 245, 0.48)",
+    "surface": "rgba(168, 85, 247, 0.16)",
+    "aura": "radial-gradient(circle at 18% 14%, rgba(220, 133, 237, 0.32), transparent 34%), radial-gradient(circle at 84% 10%, rgba(244, 114, 182, 0.16), transparent 30%)"
+  },
+  "environmental": {
+    "label": "Environmental Science",
+    "accent": "#065454",
+    "soft": "rgba(6, 84, 84, 0.24)",
+    "glow": "rgba(45, 212, 191, 0.38)",
+    "surface": "rgba(15, 118, 110, 0.18)",
+    "aura": "radial-gradient(circle at 16% 14%, rgba(6, 84, 84, 0.32), transparent 34%), radial-gradient(circle at 84% 12%, rgba(20, 184, 166, 0.16), transparent 30%)"
+  }
+}
